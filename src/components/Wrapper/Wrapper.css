@@ -1,0 +1,9 @@
+.layout-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.layout-wrapper>.wrapper-item {
+    width: 40%;
+}
